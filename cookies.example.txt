@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# Пример формата. Скопируйте в cookies.txt после экспорта из браузера.
+# НЕ коммитьте реальный cookies.txt — в нём сессия YouTube.
+#
+# Расширение: Get cookies.txt LOCALLY
+# https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc

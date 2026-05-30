@@ -1,0 +1,34 @@
+# --- Python / uv ---
+.venv/
+venv/
+env/
+.uv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# --- Секреты и сессии (не коммитить) ---
+.env
+.env.*
+*.env
+cookies.txt
+cookies*.txt
+!cookies.example.txt
+
+# --- Локальные артефакты пользователя ---
+output/
+out/
+results/
+.last-job.json
+edge_snap/
+
+# --- Метаданные скачивания / логи ---
+*.info.json
+ytdlp-err.txt
+*.log
+
+# --- ОС ---
+Thumbs.db
+Desktop.ini
+.DS_Store
